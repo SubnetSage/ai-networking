@@ -1,0 +1,24 @@
+What is the model and software version of the router?
+What are the IP addresses assigned to each interface?
+How are the interfaces configured (e.g., speed, duplex settings, description)?
+Which routing protocols are enabled (e.g., OSPF, EIGRP, BGP)?
+What are the specific configurations for each routing protocol (e.g., OSPF areas, EIGRP AS number, BGP neighbors)?
+Are there any static routes configured, and if so, what are they?
+What access control lists (ACLs) are configured and applied to the interfaces?
+Are there any firewall features enabled on the router?
+How is the router secured (e.g., passwords, SSH access, management IP restrictions)?
+Are there any DHCP configurations on the router?
+Is Network Address Translation (NAT) configured, and how?
+Are there any VPN configurations (e.g., IPsec, SSL VPN)?
+   Are there any QoS policies applied to the interfaces?
+What SNMP configurations are in place for network monitoring?
+Are there any logging configurations or syslog servers defined?
+Is there any High Availability (HA) configuration (e.g., HSRP, VRRP)?
+Are there any MPLS configurations?
+Is the router participating in any multicast routing, and what are the settings?
+What are the current statistics and error counts on the interfaces?
+Are there any debugging commands currently running?
+How is the router handling route summarization and redistribution?
+Are there any scheduled jobs or scripts running on the router (e.g., EEM scripts)?
+What is the current running configuration versus the startup configuration?
+Are there any backup or version control mechanisms for the router configuration?
